@@ -1,6 +1,6 @@
 ---
 title: "Data import and troubleshoots"
-output: github_document
+output: html_document
 ---
 
 ```{r, include = FALSE}
